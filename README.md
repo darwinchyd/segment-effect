@@ -2,7 +2,7 @@
 Animate text paragraph like typing on the keyboard based on char or word
 
 ### Demo
-![Demo animate-typing-text](https://media.giphy.com/media/3ohzdRd4sFKwSd57Nu/giphy.gif)
+![Demo animate-typing-text](https://media.giphy.com/media/3ohzdRTWLZK2rPoqoU/giphy.gif)
 
 ### Installing
 Install and save to `package.json` from terminal:
